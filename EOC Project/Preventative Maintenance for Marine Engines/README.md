@@ -72,16 +72,11 @@ The following are some questions I had prior to starting my initial data analysi
 
 On this page is the Maintenance Status Prediction Model. Here you can move the sliders and change the options in the select boxes and at the bottom of the page you will get a prediction of what kind of maintenance status you can expect to see with a engine that has all of those settings. The Prediction Model used is a Random Forest Model.
 
-- To run the model you will have to run the whole main_eda.ipynb notebook and uncomment out the # joblib.dump(forest_model, 'forest_model.joblib') line of code to create the file. This line of code is found in the second to last cell of the notebook file. I could not push this project because that file was too big.
-
-
 ![alt text](Images/maint_status_streamlit.png)
 
 # Predicting Engine Failure
 
 On this page is the Failure Prediction Model. Here you can move the sliders and change the options in the select boxes and at the bottom of the page you will get a prediction of the failure you can expect to see with a engine that has all of those settings. The Prediction Model used is a Random Forest Model.
-
-- To run the model you will have to run the whole main_eda.ipynb notebook and uncomment out the # joblib.dump(forest_model, 'forest_model.joblib') line of code to create the file. This line of code is found in the second to last cell of the notebook file. I could not push this project because that file was too big.
 
 ![alt text](Images/failure_mode_streamlit.png)
 
