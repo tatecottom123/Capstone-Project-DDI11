@@ -17,7 +17,7 @@ Engine failures can be expensive and can result in downtime. The goal of this pr
 
 # Dataset
 
-![alt text](Images/dataset_picture.png.png)
+![alt text](Images/dataset_picture.png)
 
 - 5200 Rows, 17 Columns
 
