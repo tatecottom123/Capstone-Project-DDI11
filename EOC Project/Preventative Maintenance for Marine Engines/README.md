@@ -82,7 +82,12 @@ On this page is the Failure Prediction Model. Here you can move the sliders and 
 
 # Feature Importance
 
+Feature Importances for Maintenance Status Model
+
 ![alt text](Images/Feature_Importance_Maint_Status.png)
+
+Feature Importances for Engine Failure Model
+
 ![alt text](Images/Feature_Importance_Fail_Type.png)
 
 - The numbers under Importance all add up to 1. The greater the number the more importance that feature is considered to be.
